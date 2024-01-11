@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vivi/static/css/main.03d83ec6.css",
+    "main.js": "/vivi/static/js/main.c2a66421.js",
+    "static/media/background.jpg": "/vivi/static/media/background.af415ab19705b3ede7d5.jpg",
+    "static/media/profil vivi.jpeg": "/vivi/static/media/profil vivi.3f20249f651db63364e9.jpeg",
+    "static/media/vivivi.jpeg": "/vivi/static/media/vivivi.2b77336cc9ba9182bbc4.jpeg",
+    "index.html": "/vivi/index.html",
+    "main.03d83ec6.css.map": "/vivi/static/css/main.03d83ec6.css.map",
+    "main.c2a66421.js.map": "/vivi/static/js/main.c2a66421.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03d83ec6.css",
+    "static/js/main.c2a66421.js"
+  ]
+}
