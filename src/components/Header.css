@@ -1,0 +1,32 @@
+/* Header.css */
+.main-header {
+  background-color: rgba(2, 104, 125, 0.448);
+  color: #fff;
+  padding: 8px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.main-header h1 {
+  margin: 0;
+}
+
+.main-header nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+}
+
+.main-header nav ul li {
+  margin-right: 20px;
+}
+
+.main-header nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.main-header nav ul li a:hover {
+  text-decoration: underline;
+}
